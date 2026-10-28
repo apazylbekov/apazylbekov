@@ -1,4 +1,5 @@
-## Hi there 👋
+## Alisher Pazylbekov · Software and AI engineer in Almaty
+All of my production work is private company code: an internal project tracking application (FastAPI, PostgreSQL, React), a GIS automation engine, and a Kazakh/Russian speech to summary pipeline, all built with Claude Code and MCP. The public repos here are personal projects and demos. I would be happy to walk through the private work on a call.
 
 <!--
 **apazylbekov/apazylbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
