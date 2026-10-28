@@ -1,4 +1,4 @@
-## Alisher Pazylbekov · Software and AI engineer in Almaty
+## Alisher Pazylbekov | Software and AI engineer in Almaty | US Citizen and KZ permanent resident through Astana Hub
 All of my production work is private company code: an internal project tracking application (FastAPI, PostgreSQL, React), a GIS automation engine, and a Kazakh/Russian speech to summary pipeline, all built with Claude Code and MCP. The public repos here are personal projects and demos. I would be happy to walk through the private work on a call.
 
 <!--
